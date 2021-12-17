@@ -5,7 +5,7 @@ A curated list of awesome Flow projects, tools and resources.
 
 ## Contributing
 
-Please take a look at the [contribution guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) for details
+Please take a look at the [contribution guidelines](https://github.com/mmoyes/awesome-flow/blob/main/CONTRIBUTING.md) for details
 
 ## Contents
 
