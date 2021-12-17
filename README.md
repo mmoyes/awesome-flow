@@ -41,6 +41,13 @@ Please take a look at the [contribution guidelines](https://github.com/mmoyes/aw
 
 **Launch:** 2022 Q1
 
+### Token / NFT Discord gating
+*A Discord bot that checks for specific token to grant access*
+
+**Team:** [Emerald City](https://discord.gg/qkKDX9mU)
+
+**Launch:** TBD
+
 ### Multi Signature Wallet
 *A wallet that enforces multiple signatures to approve transactions*
 
