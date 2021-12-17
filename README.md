@@ -1,4 +1,5 @@
 # Awesome Flow
+
 A curated list of awesome Flow projects, tools and resources.
 
 ... and a place to list tools we need
@@ -10,78 +11,62 @@ Please take a look at the [contribution guidelines](https://github.com/mmoyes/aw
 ## Contents
 
 - [Ready To Use](#ready-to-use)
-    - [NFTs](#nfts)
-    - [Tutorials](#tutorials)
+  - [NFTs](#nfts)
+  - [Tutorials](#tutorials)
+  - [Templates](#templates)
 - [In Development](#in-development)
-    - [DAO Governence](#dao-governence)
+  - [DAO Governence](#dao-governence)
 - [Needed](#needed)
 
-# Ready To Use
+## Ready To Use
 
-## NFTs
-*Tools for minting and airdropping NFTs*
+### NFTs
 
-### [Freshmint](https://github.com/onflow/freshmint)
-*All-in-one tool to deploy NFT on Flow using Next.js and IPFS*
+Tools for minting and airdropping NFTs
 
-## Tutorials
+- [Freshmint](https://github.com/onflow/freshmint) - *All-in-one tool to deploy NFT on Flow using Next.js and IPFS*
 
-### [Learn Cadence](https://www.youtube.com/watch?v=iVevnipJbHo&list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
-*Video tutorials on getting started with Cadence*
+### Tutorials
 
-# In Development
+- [Learn Cadence](https://www.youtube.com/watch?v=iVevnipJbHo&list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2) - *Video tutorials on getting started with Cadence*
 
-## DAO Governence
-*Tools to govern Decentralized autonomous organisations*
+### Templates
 
-### Voting Tool
-*Lightweight decision-making system*
+- [fcl sveltekit quickstart](https://github.com/muttoni/fcl-sveltekit-quickstart)
 
-**Team:** Dapper Collectives
+- [fcl nextjs quickstart](https://github.com/muttoni/fcl-nextjs-quickstart)
 
-**Launch:** 2022 Q1
+## In Development
 
-### Token / NFT Discord gating
-*A Discord bot that checks for specific token to grant access*
+### DAO Governence
 
-**Team:** [Emerald City](https://discord.gg/qkKDX9mU)
+Tools to govern Decentralized autonomous organisations
 
-**Launch:** TBD
+- **Voting Tool** - *Lightweight decision-making system*
+  - **Team:** Dapper Collectives
+  - **Launch:** 2022 Q1
 
-### Multi Signature Wallet
-*A wallet that enforces multiple signatures to approve transactions*
+- **Token / NFT Discord gating** - *A Discord bot that checks for specific token to grant access*
+  - **Team:** [Emerald City](https://discord.gg/qkKDX9mU)
+  - **Launch:** TBD
 
-**Team:** Dapper Collectives
+- Multi Signature Wallet - *A wallet that enforces multiple signatures to approve transactions*
+  - **Team:** Dapper Collectives
+  - **Launch:** 2022 Q2
 
-**Launch:** 2022 Q2
+## Needed
 
-# Needed
-
-### NFT Minter
-
-### Token Spin-Up Tool
-
-### SourceCred
-
-### Scaffold - Eth
-
-### Finance.vote
-
-### Group Buying
-*e.g. PartyBid*
-
-### Fractionalization
-
-### Airdrop Infrastructure
-
-### Raffle Tools
-
-### Burn then mint tools 
-*e.g. burn a token to 
+- NFT Minter
+- Token Spin-Up Tool
+- SourceCred
+- Scaffold - Eth
+- Finance.vote
+- Group Buying - *e.g. PartyBid*
+- Fractionalization
+- Airdrop Infrastructure
+- Raffle Tools
+- Burn then mint tools - *e.g. burn a token to
 redeem other type of token*
-
-### NFT Issuance/Minting as a Service
-
-### Minting and Managing social tokens
-
-### DEX
+- NFT Issuance/Minting as a Service
+- Minting and Managing social tokens
+- DEX
