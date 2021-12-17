@@ -14,6 +14,7 @@ Please take a look at the [contribution guidelines](https://github.com/mmoyes/aw
   - [NFTs](#nfts)
   - [Tutorials](#tutorials)
   - [Templates](#templates)
+  - [Dev tools](#dev-tools)
 - [In Development](#in-development)
   - [DAO Governence](#dao-governence)
 - [Needed](#needed)
@@ -24,17 +25,22 @@ Please take a look at the [contribution guidelines](https://github.com/mmoyes/aw
 
 Tools for minting and airdropping NFTs
 
-- [Freshmint](https://github.com/onflow/freshmint) - *All-in-one tool to deploy NFT on Flow using Next.js and IPFS*
+- [Freshmint](https://github.com/onflow/freshmint) - All-in-one tool to deploy NFT on Flow using Next.js and IPFS
 
 ### Tutorials
 
-- [Learn Cadence](https://www.youtube.com/watch?v=iVevnipJbHo&list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2) - *Video tutorials on getting started with Cadence*
+- [CryptoDappy](https://www.cryptodappy.com/) - Mission-based online course directed at developers who want to get started learning blockchain development.
+- [Flow Zero to Jacob](https://github.com/jacob-tucker/Flow-Zero-to-Jacob) - Text tutorials on getting started with Cadence
+- [Learn Cadence](https://www.youtube.com/watch?v=iVevnipJbHo&list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2) - Video tutorials on getting started with Cadence
 
 ### Templates
 
-- [fcl sveltekit quickstart](https://github.com/muttoni/fcl-sveltekit-quickstart)
+- [Fcl sveltekit quickstart](https://github.com/muttoni/fcl-sveltekit-quickstart)
+- [Fcl nextjs quickstart](https://github.com/muttoni/fcl-nextjs-quickstart)
 
-- [fcl nextjs quickstart](https://github.com/muttoni/fcl-nextjs-quickstart)
+### Dev Tools
+
+- [Go with the Flow](https://github.com/bjartek/go-with-the-flow) - Go scripts to make it easer to run a story consisting of creating accounts, deploying contracts, executing transactions and running scripts
 
 ## In Development
 
@@ -42,15 +48,15 @@ Tools for minting and airdropping NFTs
 
 Tools to govern Decentralized autonomous organisations
 
-- **Voting Tool** - *Lightweight decision-making system*
+- **Voting Tool** - Lightweight decision-making system
   - **Team:** Dapper Collectives
   - **Launch:** 2022 Q1
 
-- **Token / NFT Discord gating** - *A Discord bot that checks for specific token to grant access*
+- **Token / NFT Discord gating** - A Discord bot that checks for specific token to grant access
   - **Team:** [Emerald City](https://discord.gg/qkKDX9mU)
   - **Launch:** TBD
 
-- Multi Signature Wallet - *A wallet that enforces multiple signatures to approve transactions*
+- **Multi Signature Wallet** - A wallet that enforces multiple signatures to approve transactions
   - **Team:** Dapper Collectives
   - **Launch:** 2022 Q2
 
